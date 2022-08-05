@@ -1,0 +1,1 @@
+# Single-Asset-Trading-Strategies
